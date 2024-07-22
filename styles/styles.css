@@ -1,0 +1,41 @@
+/* color palatte:https://colorhunt.co/palette/164b601b6b934fc0d0a2ff86 */
+
+
+body {
+    font-family: 'Roboto Mono', Arial;
+    background-color: #1B6B93;
+}
+
+p,
+h1 {
+    color: #A2FF86;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+hr {
+    border-top: 1px solid #A2FF86;
+    border-bottom: 1px solid grey;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.intro-box {
+    margin: 20px;
+}
+
+.intro {
+    padding-top: 100px;
+    width: 400px;
+}
+
+.intro-description-1 {
+    padding-top: 30px;
+    width: 700px;
+}
+
+.intro-description-2 {
+    padding-top: 15px;
+}
